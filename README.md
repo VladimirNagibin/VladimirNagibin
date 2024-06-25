@@ -4,8 +4,8 @@
 
 ### Languages and Tools
 ![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
-![django](https://img.shields.io/badge/gjango-000000?style=for-the-badge&logo=django&logoColor=3cea96)
-![django-REST](https://img.shields.io/badge/django-REST-000000?style=for-the-badge&logo=django&logoColor=3cea96)
+![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=3cea96)
+![djangoREST](https://img.shields.io/badge/django-REST-000000?style=for-the-badge&logo=django&logoColor=3cea96)
 ![sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=mysql&logoColor=ccfffb)
 ![postgresql](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=aef6ff)
 ![docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker&logoColor=0dabe6)
