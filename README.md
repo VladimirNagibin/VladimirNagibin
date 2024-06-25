@@ -1,9 +1,9 @@
 [![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
-[![telegram](https://img.shields.io/badge/Telegram-2ec2ec?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/bob_140)
-[![mail](https://img.shields.io/badge/mail-2ec2ec?style=for-the-badge&logo=mail&logoColor=ffffff)](https://t.me/bob_140)
+[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2ec2ec)](https://t.me/bob_140)
+[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=email&logoColor=fffc92)](https://t.me/bob_140)
 ## I'm a python developer. 
 
-### Languages and Tools
+### Languages and Tools:
 ![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
 ![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=3cea96)
 ![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=ccfffb)
