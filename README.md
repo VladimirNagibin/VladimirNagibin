@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)
 
 About me
 
