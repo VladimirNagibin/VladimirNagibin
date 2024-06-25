@@ -5,7 +5,8 @@
 Latest
 
 ### Languages and Tools
-![python](https://img.shields.io/badge/-python-000000)
+![python](https://img.shields.io/badge/-python-000000?
+style=for-the-badge&logo=python&logoColor=546787)
 ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 
