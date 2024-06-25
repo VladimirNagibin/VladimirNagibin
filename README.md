@@ -1,9 +1,12 @@
 [![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
 
-About me
+## I am a python developer actively looking for a job.
 
 Latest
 
-Languages and tools
+### Languages and Tools
+![python](https://img.shields.io/badge/-python-000000)
+![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 
 Follow me
