@@ -13,3 +13,6 @@
 ![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=ffb19c)
 ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![gunicorn](https://img.shields.io/badge/gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=cbffb8)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin)](https://github.com/VladimirNagibin/github-readme-stats)
