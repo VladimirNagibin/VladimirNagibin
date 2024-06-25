@@ -1,4 +1,4 @@
-![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)
+[![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
 
 About me
 
