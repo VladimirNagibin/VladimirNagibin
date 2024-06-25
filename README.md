@@ -1,7 +1,6 @@
 [![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
 
-## I'm a python developer.
-[![telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=fff85b)](https://t.me/bob_140)
+## I'm a python developer. [![telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=dad8f5)](https://t.me/bob_140)
 
 ### Languages and Tools
 ![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
