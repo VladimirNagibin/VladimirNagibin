@@ -15,4 +15,4 @@
 ![gunicorn](https://img.shields.io/badge/gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=cbffb8)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin)](https://github.com/VladimirNagibin/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin&show_icons=true&theme=dark&hide=contribs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
