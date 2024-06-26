@@ -9,9 +9,8 @@
 
 </div>
 
-[![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
+### Languages and Tools
 
-### Languages and Tools:
 ![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
 ![django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=3cea96)
 ![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=ccfffb)
@@ -23,4 +22,10 @@
 ![gunicorn](https://img.shields.io/badge/gunicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=cbffb8)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin&show_icons=true&theme=dark&hide=contribs,issues&count_private=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&theme=github_dark&bg_color=000000" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirNagibin&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000" alt=""/>
+</div>
