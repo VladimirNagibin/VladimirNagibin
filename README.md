@@ -1,7 +1,13 @@
-[![Header](https://github.com/VladimirNagibin/VladimirNagibin/blob/main/assets/pic.jpg)](https://github.com/VladimirNagibin)
+<div id="header" align="center">
+    <h1>Hi there, I'm Vladimir</h1>
+    <h3>Python developer from Novosibirsk</h3>
+</div>
+
+<div id="link" align="center">
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2ec2ec)](https://t.me/bob_140)
 [![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=maildotru&logoColor=fffc92)](mailto:vlnagibin@yandex.ru)
-## I'm a python developer. 
+</div>
+
 
 ### Languages and Tools:
 ![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
