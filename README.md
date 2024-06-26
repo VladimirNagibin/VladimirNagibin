@@ -9,6 +9,16 @@
 
 </div>
 
+<!--
+### About me
+- :man_technologist: I’m currently learning **Python, Algorithms**
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#people--body 
+-
+-
+-
+
+--- -->
+
 ### Languages and Tools
 
 ![python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=fff85b)
@@ -34,3 +44,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirNagibin&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=github_dark" alt=""/>  -->
 </div>
+
+---
