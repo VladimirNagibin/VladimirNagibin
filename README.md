@@ -4,7 +4,7 @@
 </div>
 <div id="header" align="center">
 
-[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2ec2ec)](https://t.me/bob_140)
+[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=2ec2ec&theme=github_dark)](https://t.me/bob_140)
 [![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=maildotru&logoColor=fffc92)](mailto:vlnagibin@yandex.ru)
 
 </div>
@@ -25,7 +25,12 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&theme=github_dark&bg_color=000000" alt=""/>
+
+[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&theme=github_dark&bg_color=000000" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirNagibin&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=github_dark" alt=""/>  -->
 </div>
