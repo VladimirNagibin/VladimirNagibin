@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Vladimir</h1>
-    <h3>Python developer from Novosibirsk</h3>
 </div>
 <div id="header" align="center">
 
@@ -9,15 +8,13 @@
 
 </div>
 
-<!--
 ### About me
-- :man_technologist: I’m currently learning **Python, Algorithms**
-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#people--body 
-- https://sanstv.ru/color#0d1117
-- Asinsio
--
+- :technologist: I'm a python developer from Novosibirsk
+- :open_book: I’m currently learning **asyncio**
+- :man_student: I'm a Master of Mathematics, NSU
+- :running_man: I like to go jogging in the park
 
---- -->
+--- 
 
 ### Languages and Tools
 
@@ -36,11 +33,9 @@
 
 <div id="stat" align="center">
 
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true)
 
-
-[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=dark)
 
 
 </div>
