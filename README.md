@@ -38,13 +38,11 @@
 
 
 
-[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirNagibin&theme=github_dark&bg_color=000000" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladimirNagibin&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=github_dark" alt=""/>  -->
+[![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladimirNagibin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
 ---
