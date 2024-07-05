@@ -10,8 +10,8 @@
 
 ### About me
 - :technologist: I'm a python developer from Novosibirsk
-- :open_book: I’m currently learning **asyncio**
 - :mechanic: I'm working on the pet project [AllIDo](https://github.com/VladimirNagibin/allido)
+- :open_book: I’m currently learning **asyncio**
 - :man_student: I'm a Master of Mathematics, NSU
 - :running_man: I like to go jogging in the park
 
